@@ -1,0 +1,19 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First HTML Program</title>
+</head>
+<body>
+    <h1>Hello World!</h1>
+    <p>This is my first HTML program. It's very exciting!</p>
+    <img src="https://example.com/image.jpg" alt="A beautiful landscape">
+</body>
+</html>
+```
+
+This program starts with `<!DOCTYPE html>` which tells the browser that this is an HTML program. The `<html>` element contains all the other elements and tags. The `<head>` element provides the metadata for the page such as the title. The `<body>` element contains all the content that will be displayed on the web page.
+
+In this program we have a `<h1>` tag that creates a heading a `<p>` tag that creates a paragraph and an `<img>` tag that embeds an image in the page. The `src` attribute of the `<img>` tag specifies the URL of the image and the `alt` attribute allows a text description of the image to be displayed in case the image cannot be loaded.
+
+This is just a simple example but HTML can be used to create complex web pages with forms tables videos and other multimedia elements.
